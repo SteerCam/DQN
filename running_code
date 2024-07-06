@@ -1,0 +1,1 @@
+python3 ComAI-RL.py --model ./YOLOV3/model_data/yolo.h5 --anchors ./YOLOV3/model_data/ --image
